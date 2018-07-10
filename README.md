@@ -3,6 +3,10 @@ The aim of this project is to predict the teams that will advance to knockout st
 
 # Update
 Here are the updated predictions before the start of knockout stage
+## Predictions for Semifinals
+Belgium vs France (Winner: France)    
+Croatia vs England (Winner: England)    
+
 ## Predictions for Round 16
 France vs Argentina (Winner: France)  
 Uruguay vs Portugal (Winner: Portugal)  
